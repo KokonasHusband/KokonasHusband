@@ -1,5 +1,5 @@
 ## Heyo!
-I'm Kokona's husband!\n
+I'm Kokona's husband!
 Aspiring Java developer, possible EE major
 <!--
 **KokonasHusband/KokonasHusband** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
